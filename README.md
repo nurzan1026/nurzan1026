@@ -7,7 +7,7 @@
 <h2 align="center">I a'm Frond-End Web Developer</h2>
   <img
       align="right"
-      width="500"
+      width="400"
       src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQyZnBub2hkY2J3YXpydDJ6anpkcmR0aGdmbmp4OGh5eW03cGI0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
       alt=""
     />
