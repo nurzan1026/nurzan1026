@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Javacsript, TailwindCss, ReactJs,Node Js**
 
-- 👨‍💻 My Profile Link [bit.ly/m-nur-ichsan-in](bit.ly/m-nur-ichsan-in)
+- 👨‍💻 My Profile Link [bit.ly/m-nur-ichsan-in](http://bit.ly/m-nur-ichsan-in)
 
 - 💬 Ask me about **html, Css, Javascript, TailwindCss**
 
