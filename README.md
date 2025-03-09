@@ -4,7 +4,7 @@
   <br><br>
 <h1 align="center" >Hi 👋, I'm M NUR ICHSAN IN</h1>
 
-<h2 align="center">I a'm Frond-End Web Developer</h2>
+<h2 align="center">I a'm Front-End Web Developer</h2>
   <img
       align="right"
       width="400"
